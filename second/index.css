@@ -1,0 +1,58 @@
+body{
+   background-color: white; 
+}
+
+
+.parent {
+    border: 3px solid black;
+    
+}
+.square {
+    background-color: rgb(134, 44, 231);
+    width: 30px;
+    height: 120px;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    left: 1%;
+    
+}
+.rectangle {
+    height: 150px;
+    width: 300px;
+    background-color:green;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    left: 3%;
+    
+  }
+.circle {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(149, 209, 237);
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    left: 7%;
+    
+  }
+
+.wide{
+    border: 3px dotted black;
+    margin: auto;
+}
+
+  .rec2 {
+    height: 150px;
+    width: 90%;
+    background-color:rgb(229, 231, 191);
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    left: 3%;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    box-shadow: 5px 10px;
+  }
