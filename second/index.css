@@ -5,6 +5,7 @@ body{
 
 .parent {
     border: 3px solid black;
+    margin: 10px 10px;
     
 }
 .square {
@@ -41,7 +42,8 @@ body{
 
 .wide{
     border: 3px dotted black;
-    margin: auto;
+    /* margin: auto; */
+    margin: 10px 10px;
 }
 
   .rec2 {
@@ -51,8 +53,15 @@ body{
     display: inline-block;
     margin: 10px;
     position: relative;
-    left: 3%;
-    border: 1px solid rgba(0, 0, 0, 0.4);
-    padding: 10px;
-    box-shadow: 5px 10px;
+    left: 3%; 
+    box-shadow: 5px 5px 10px;
   }
+
+  .text{
+      padding: 40px;
+      text-align: center;
+      font-size: 4em;
+      margin: 100px 200px;
+      box-shadow: 1px 1px 1px 1px;
+      }
+
