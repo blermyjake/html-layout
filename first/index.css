@@ -1,0 +1,26 @@
+nav {
+    background-color:rgb(74,74,76);
+    height: 20vh;
+    padding: 20px;
+  }
+
+  body{
+      background-color: rgb(218,219,220);
+  }
+
+  .square {
+    background-color: rgb(240,240,240);  
+    height: 80vh;
+    width: 70%;
+    margin: auto;
+  }
+
+  .bottom{
+    background-color: black;
+    height: 50px;
+    position: relative;
+    top: 100%;
+  }
+
+
+    
